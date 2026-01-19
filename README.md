@@ -1,6 +1,6 @@
-# Prediction Market Platform
+# PredictX - Trade With Insight
 
-A modern prediction market platform inspired by Hedgehog Markets, built with Next.js and Solana Web3 integration. Bet on outcomes across crypto, politics, tech, sports, and entertainment with real wallet connectivity.
+A modern prediction market platform built with Next.js and Solana Web3 integration. Bet on outcomes across crypto, politics, tech, sports, and entertainment with real wallet connectivity.
 
 ## Features
 
@@ -42,7 +42,7 @@ Telegram: [@crypmancer](https://t.me/cryp_mancer) <br>
 1. Clone the repository:
 \`\`\`bash
 git clone <your-repo-url>
-cd hedgehog-markets-fork
+cd Prediction-Market-Utility
 \`\`\`
 
 2. Install dependencies:
@@ -200,6 +200,6 @@ MIT License - feel free to use this project as a starting point for your own pre
 
 ## Acknowledgments
 
-- Inspired by [Hedgehog Markets](https://www.hedgehog.markets)
+- Built with modern web technologies and Solana blockchain
 - Built with [shadcn/ui](https://ui.shadcn.com/)
 - Powered by [Solana](https://solana.com/)
